@@ -1,5 +1,5 @@
 # TMAP
-The Microwave Antenna project
+# The Microwave Antenna project
 
 This github project will include all details of my new microave antenna setup which will be palced on my backyard.
 These are the initial targets for this project :
@@ -10,7 +10,9 @@ These are the initial targets for this project :
 - Build a site cabinet to include all loss sensitive equipment (e.g.: receivers, preamplifiers, amplifiers, excites, etc.)
 - SDR Receiver integration and GPSDO
 - Transverter applications
--
+- Signal collection methodology
+- Signal Analysis methodology
+- 
 
 
 note: I will try to photograph and explain al steps in details
