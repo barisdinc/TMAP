@@ -14,4 +14,4 @@ These are the initial targets for this project :
 
 note: I will try to photograph and explain al steps in details
 
-https://github.com/barisdinc/TMAP/raw/master/Photos/Construction/tmap_cons_base_2020-08-08%20at%2015.39.06.jpeg
+<IMG SRC=https://github.com/barisdinc/TMAP/raw/master/Photos/Construction/tmap_cons_base_2020-08-08%20at%2015.39.06.jpeg>
