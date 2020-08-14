@@ -17,4 +17,6 @@ These are the initial targets for this project :
 
 note: I will try to photograph and explain al steps in details
 
+<IMG SRC=https://raw.githubusercontent.com/barisdinc/TMAP/master/tmap_rotormount_2020-08-13%20at%2020.26.01.jpeg>
+  
 <IMG SRC=https://github.com/barisdinc/TMAP/raw/master/Photos/Construction/tmap_cons_base_2020-08-08%20at%2015.39.06.jpeg>
